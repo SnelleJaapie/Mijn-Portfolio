@@ -1,0 +1,29 @@
+body {
+    font-family: "Times New Roman";
+    background: linear-gradient(0.25turn, #3f87a6, #ebf8e1, #f69d3c);
+}
+h1 {
+    font-family: Impact, Serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: black;
+    border-top-color: red;
+    border-style: solid;
+}
+.paragraphsLayoutIndex {
+    display: flex;
+    border-style: solid;
+}
+#catalog {
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+
+}
+.buttonCatalog {
+    font-family: Impact;
+    background-color: transparent;
+    border-style: none;
+
+}
